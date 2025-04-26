@@ -3,7 +3,7 @@
 	url = https://github.com/oriansj/M2-Planet.git
 [submodule "mescc-tools"]
 	path = mescc-tools
-	url = https://git.savannah.nongnu.org/git/mescc-tools.git
+	url = https://github.com/oriansj/mescc-tools.git
 [submodule "bootstrap-seeds"]
 	path = bootstrap-seeds
 	url = https://github.com/oriansj/bootstrap-seeds
